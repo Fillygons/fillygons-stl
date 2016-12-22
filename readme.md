@@ -15,5 +15,5 @@ on the exact kind of PLA filament used.
 More Information
 ----------------
 
-  http://fillygons.feuermurmel.ch/
-  https://github.com/Fillygons/fillygons
+* http://fillygons.feuermurmel.ch/
+* https://github.com/Fillygons/fillygons
