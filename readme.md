@@ -1,7 +1,7 @@
 Fillygons
 =========
 
-This repository contains precompiled [fillygon](http://fillygons.feuermurmel.ch/) geometries
+This repository contains precompiled [fillygon](https://fillygons.ch/) geometries
 as _STL_ files. There are (at the moment) three different top-level directories, each containing
 36 distinct geometric models like triangles, squares, hexagons, various rhombi etc.
 
