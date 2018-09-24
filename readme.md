@@ -18,7 +18,7 @@ Hints for slicing
 
 Slicing the _STL_ files to generate the printer-specific _G-code_ representation
 suitable for your 3D printer at hand is a standard process.
-The [Cura](https://ultimaker.com/en/products/cura-software) software does a great
+The [Cura](https://ultimaker.com/en/products/ultimaker-cura-software) software does a great
 job here, its use is straight-forward.
 
 
